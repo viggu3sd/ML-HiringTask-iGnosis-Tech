@@ -89,9 +89,5 @@ To run this project locally, follow these steps:
 ## ✨ Author  
 
 **Thiruvidhula Sai Vignesh**  
-For queries, feel free to reach out via [your email or LinkedIn].  
+For queries, feel free to reach out via phyvignesh3@gmail.com.  
 
----
-
-Let me know if you need any modifications! 🚀  
-```
