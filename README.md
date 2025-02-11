@@ -15,7 +15,7 @@ Here's a refined `README.md` file based on your project description:
 ```markdown
 # Customer Segmentation & Product Profitability Analysis  
 
-## 📌 Project Overview  
+## Project Overview  
 
 This project aims to assist the (hypothetical) marketing department in identifying the most profitable customer segments and best-selling products. By analyzing transaction data, we extract insights about customer characteristics—such as marital status, employment, and purchasing behavior—and determine the top three most profitable products.  
 
@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
    python analysis.py  
    ```  
 
-## 🧠 Working of the Code  
+##  Working of the Code  
 
 1. **Data Preprocessing**  
    - Loads transaction data and cleans missing values.  
@@ -80,13 +80,13 @@ To run this project locally, follow these steps:
    - Explains why specific products are bestsellers.  
    - Suggests marketing strategies based on findings.  
 
-## 📊 Results  
+## Results  
 
 - **Top 3 Most Profitable Products**: Identified from transaction data.  
 - **Most Loyal Customers**: Segmented based on purchasing patterns.  
 - **Hypothesis**: Explanation of customer preferences and spending behavior.  
 
-## ✨ Author  
+## Author  
 
 **Thiruvidhula Sai Vignesh**  
 For queries, feel free to reach out via phyvignesh3@gmail.com.  
